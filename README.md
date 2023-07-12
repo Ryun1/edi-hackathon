@@ -1,18 +1,19 @@
 # Age of Voltaire Wallets and Tooling Hackathon
 
-This event is an opportunity to align the community on tooling that is being created by the Voltaire team and where the community can fit in. The primary goal is to work alongside wallet providers to work on their approach to Cardano’s age of Voltaire. This will be achieved by providing a physical space for close collaboration on the finalization of CIP-95 design whilst also facilitating online participation. Thus moving the proposal along in the CIP process. Here the IOG Voltaire team can work side-by-side with community wallet providers to efficiently achieve technically sound solutions to the problems of interfacing with Cardano’s age of Voltaire.
+This event is an opportunity for the community to actively participate in the  tooling that is being created for wallets and voting to implement on-chain voting. The primary goal is to work alongside wallet providers on their approach to Cardano’s age of Voltaire. This will be achieved by providing a physical space for close collaboration on the finalization of CIP-95’s design whilst also facilitating online participation in order to move the CIP process forward. Here the community can work side-by-side with wallet providers to efficiently achieve technically sound solutions to the problems of interfacing with Cardano’s new on-chain voting features.
 
-The CIP-95 standard extends the CIP-30 | Cardano dApp-Wallet Web Bridge to provide support for CIP-1694 focussed web-based stacks. By implementing CIP-95 wallets will be able to interface with CIP-1694 tooling.
+The [CIP-95](https://github.com/Ryun1/CIPs/blob/governance-wallet-connector/CIP-0095/README.md) standard extends the [CIP-30 | Cardano dApp-Wallet Web Bridge](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0030/README.md) to provide support for [CIP-1694](https://github.com/cardano-foundation/CIPs/blob/master/CIP-1694/README.md4) focussed web-based stacks. Implementing CIP-95 wallets will allow the ability to interface with CIP-1694 tooling.
 
-We plan to host this hackathon hybrid online and in person event to be able to maximize the impact and ensure the desired outcomes. Discord will be used to enable anyone to join.
+This hackathon will take place both online and in person to maximize the impact and ensure the desired outcomes. Discord will be used to enable anyone to join.
+
 
 ## Details 
 
 - Timings: July 13th, 9am-4pm (UTC +1)
 - **ONLINE DETAILS TBD**
 - Goals of hackathon:
-  - Alignment with wallet providers on the age of Voltaire
-  - Showcase the tooling being created by the Voltaire team
+  - Alignment with wallet providers in the age of Voltaire
+  - Showcase the tooling being created by the various parties
   - Finalization of CIP-95 design
 - Start prototype CIP-95 implementations to include:
   - CIP-95 compatible connections
