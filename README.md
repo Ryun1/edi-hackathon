@@ -36,10 +36,14 @@ This hackathon will take place both online and in person to maximize the impact 
 
 ## Resources
 
+- Discord:
+  - See Hackathon Wallets of Voltaire channel category of the IO [Technical Discord](https://discord.gg/inputoutput).
+
 - CIPs:
   - [CIP-1694 | A First Step Towards On-Chain Decentralized Governance](https://github.com/cardano-foundation/CIPs/blob/master/CIP-1694/README.md)
   - [CIP-95? | Cardano dApp-Wallet Web Bridge Governance Extension](https://github.com/Ryun1/CIPs/blob/governance-wallet-connector/CIP-0095/README.md)
   - [CIP-95? Pull Request](https://github.com/cardano-foundation/CIPs/pull/509)
+  - [CIP-95 Open Questions](https://github.com/Ryun1/CIPs/blob/governance-wallet-connector/CIP-0095/README.md#open-questions)
   - [CIP-30 | Cardano dApp-Wallet Web Bridge](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0030/README.md)
 
 Demos CIP-95 dApp:
