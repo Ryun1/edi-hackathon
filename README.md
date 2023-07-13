@@ -10,7 +10,7 @@ This hackathon will take place both online and in person to maximize the impact 
 ## Details 
 
 - Timings: July 13th, 9am-4pm (UTC +1)
-- **ONLINE DETAILS TBD**
+- See [Discord](https://discord.com/channels/826816523368005654/1128028267690082336/1128040660084207616).
 - Goals of hackathon:
   - Alignment with wallet providers in the age of Voltaire
   - Showcase the tooling being created by the various parties
@@ -38,6 +38,7 @@ This hackathon will take place both online and in person to maximize the impact 
 
 - Discord:
   - See Hackathon Wallets of Voltaire channel category of the IO [Technical Discord](https://discord.gg/inputoutput).
+  - [This channel!](https://discord.com/channels/826816523368005654/1128028267690082336/1128040660084207616)
 
 - CIPs:
   - [CIP-1694 | A First Step Towards On-Chain Decentralized Governance](https://github.com/cardano-foundation/CIPs/blob/master/CIP-1694/README.md)
@@ -54,6 +55,3 @@ Demos CIP-95 dApp:
 Demos CIP-95 Wallet:
 - [Code](./src/demos)
   - This is forked from [berry-pool/nami](https://github.com/berry-pool/nami).
-
-Presentations
-  - **TBD**
