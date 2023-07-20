@@ -36,7 +36,7 @@ This hackathon will take place both online and in person to maximize the impact 
 
 ## Navigation
 
-- [Submission Example](./src/submission-example.webm).
+- [Submission Example](./src/submission-example.mp4).
 - [Demos Prototype Wallet](./src/demos/).
 - [Demos CIP-95 Test dApp](./src/cardano-wallet-connector/).
 
