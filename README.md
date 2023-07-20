@@ -34,6 +34,12 @@ This hackathon will take place both online and in person to maximize the impact 
 - 14:45-15:45pm Coding! 👨‍💻
 - 15:45-16:00pm Wrap up
 
+## Navigation
+
+- [Submission Example](./src/submission-example.webm).
+- [Demos Prototype Wallet](./src/demos/).
+- [Demos CIP-95 Test dApp](./src/cardano-wallet-connector/).
+
 ## Resources
 
 - Discord:
