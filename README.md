@@ -1,4 +1,17 @@
-# Age of Voltaire Wallets and Tooling Hackathon
+# Age of Voltaire Wallets and Tooling Hackathon *Depreciated*
+
+Thank you all for your participation in the hackathon! ♥
+
+I will keep this repository here for future reference, but it will **not be maintained**.
+
+For:
+- CIP-95 Development Refer to: [CIP-95 PR](https://github.com/cardano-foundation/CIPs/pull/509), [CIP-95 merged into CIPs repo](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0095).
+- Demos Test dApp Development Refer to: CIP-95's Path to Active section.
+- Demos Test Wallet Development Refer to: CIP-95's Path to Active section.
+
+Any other links/code in the repository are unlikely to be up to date.
+
+--------------------
 
 This event is an opportunity for the community to actively participate in the  tooling that is being created for wallets and voting to implement on-chain voting. The primary goal is to work alongside wallet providers on their approach to Cardano’s age of Voltaire. This will be achieved by providing a physical space for close collaboration on the finalization of CIP-95’s design whilst also facilitating online participation in order to move the CIP process forward. Here the community can work side-by-side with wallet providers to efficiently achieve technically sound solutions to the problems of interfacing with Cardano’s new on-chain voting features.
 
